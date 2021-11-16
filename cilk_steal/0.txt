@@ -1,0 +1,2 @@
+Start: N=10, Current_CPU=0, Previous_CPU=1, Pre_N=-1, Cur_Time=0.000206
+End: N=10, Current_CPU=0, Previous_CPU=1, Pre_N=-1, Cur_Time=0.005137

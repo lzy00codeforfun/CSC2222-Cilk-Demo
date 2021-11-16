@@ -1,0 +1,14 @@
+Start: N=10, Current_CPU=0, Previous_CPU=0, Pre_N=-1, Cur_Time=0.000202
+Start: N=8, Current_CPU=0, Previous_CPU=00, Pre_N=10, Cur_Time=0.000395
+Start: N=6, Current_CPU=0, Previous_CPU=000, Pre_N=8, Cur_Time=0.000498
+Start: N=4, Current_CPU=0, Previous_CPU=0000, Pre_N=6, Cur_Time=0.000532
+Start: N=2, Current_CPU=0, Previous_CPU=00000, Pre_N=4, Cur_Time=0.000550
+Start: N=0, Current_CPU=0, Previous_CPU=000000, Pre_N=2, Cur_Time=0.000566
+End: N=0, Current_CPU=0, Previous_CPU=000000, Pre_N=2, Cur_Time=0.000575
+Start: N=1, Current_CPU=0, Previous_CPU=000000, Pre_N=2, Cur_Time=0.000588
+End: N=1, Current_CPU=0, Previous_CPU=000000, Pre_N=2, Cur_Time=0.000594
+End: N=2, Current_CPU=0, Previous_CPU=00000, Pre_N=4, Cur_Time=0.000625
+End: N=4, Current_CPU=0, Previous_CPU=0000, Pre_N=6, Cur_Time=0.000962
+End: N=6, Current_CPU=0, Previous_CPU=000, Pre_N=8, Cur_Time=0.001394
+End: N=8, Current_CPU=0, Previous_CPU=00, Pre_N=10, Cur_Time=0.002390
+End: N=10, Current_CPU=0, Previous_CPU=0, Pre_N=-1, Cur_Time=0.004911
